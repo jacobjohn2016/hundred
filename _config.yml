@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Jacob John # author name
   bio: >- # tell to the world
-    I'm an entry-level data scientist trying to his focus.
+    I'm an entry-level data scientist trying to maintain his focus.
   username: jacobjohn2016 # social media username eg. github, twitter 
   email: kapsjacob@gmail.com # your contact adress
   avatar: /assets/img/avatar.jpg # change with your own avatar

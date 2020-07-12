@@ -1,18 +1,16 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hi, I'm a computer science graduate from the Vellore Institute of Technology, Vellore. This blog is for journaling my upcoming experiences.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I'm a computer science graduate from Vellore Institute of Technology, Vellore. I formally started my data science journey in the midst of 2019. Its been a bumpy ride ever since. Join me to see how everything pans along!
 
-If you have a question about him or else, just send a letter to him.
+This blog for journaling my 🎒upcoming data science experiences. This blog runs on jekyll, is hosted on [Vercel](https://vercel.com/) and uses the <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a> theme.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-##### may u needs ✨
+##### Reach me @ ✨
 
 - {{ site.author.email }}
 - github.com/{{ site.author.username }}
