@@ -1,26 +1,24 @@
 # Site settings
-title: Klise Theme # site title
+title: 100 days of Data Science # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  100 days of learning, programming and reflecting
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+timezone: Asia/Kolkata # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/jacobjohn2016/hundred # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Your Name # author name
+  name: Jacob John # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # social media username eg. github, twitter 
-  email: your-email@email.com # your contact adress
+    I'm an entry-level data scientist trying to his focus.
+  username: jacobjohn2016 # social media username eg. github, twitter 
+  email: kapsjacob@gmail.com # your contact adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # Url settings
-url: "https://klise.now.sh"
+url: "https://hundred.vercel.app/"
 baseurl:
 permalink: /:title/
 google_analytics:
