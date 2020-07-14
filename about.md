@@ -8,7 +8,7 @@ comments: false
 
 I'm a computer science graduate from Vellore Institute of Technology, Vellore. I formally started my data science journey in the midst of 2019. It's been a bumpy ride ever since. Join me to see how things pan along!
 
-This blog for journaling my 🎒upcoming data science experiences. This blog runs on jekyll, is hosted on [Vercel](https://vercel.com/) and uses the <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a> theme.
+This blog for journaling my 🎒upcoming data science experiences. This blog runs on Jekyll and Coffee ☕️, is hosted on <a href="https://vercel.com/" target="_blank" rel="noopener">Vercel</a> and uses the <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a> theme.
 
 ## Reach me @ ✨
 
