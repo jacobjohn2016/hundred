@@ -1,10 +1,13 @@
 ---
-layout: default
-home: true
+title: All Posts
+permalink: /posts/
+layout: page
+excerpt: All posts I've made.
+comments: false
 ---
 
-<h4 class="posts-item-note">Recent Posts</h4>
-{% for post in site.posts limit:7%}
+## Recent Posts
+{% for post in site.posts%}
 <article class="post-item">
   <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
   <h4 class="post-item-title">
