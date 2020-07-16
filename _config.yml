@@ -13,7 +13,10 @@ author:
   name: Jacob John # author name
   bio: >- # tell to the world
     I'm an entry-level data scientist trying to maintain his focus.
-  username: jacobjohn2016 # social media username eg. github, twitter 
+  username: jacobjohn2016 # author username
+  github: jacobjohn2016
+  twitter: jacobjohn2016
+  facebook: 
   email: kapsjacob@gmail.com # your contact adress
   avatar: /assets/img/avatar.png # change with your own avatar
 

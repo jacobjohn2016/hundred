@@ -13,4 +13,5 @@ This blog for journaling my 🎒upcoming data science experiences. This blog run
 ## Reach me @ ✨
 
 - [{{ site.author.email }}](mailto:{{ site.author.email }})
-- [github.com/{{ site.author.username }}](https://github.com/{{ site.author.username }})
+- [github.com/{{ site.author.github }}](https://github.com/{{ site.author.github }})
+- [twitter.com/{{ site.author.twitter }}](https://github.com/{{ site.author.twitter }})
