@@ -15,7 +15,7 @@ If running for the first time:
 ```bash
 git clone https://github.com/piharpi/jekyll-klise.git
 cd jekyll-klise
-bundle install
+sudo bundle install
 ```
 
 Run local server:
