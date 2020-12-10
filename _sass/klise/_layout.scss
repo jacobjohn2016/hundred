@@ -217,6 +217,7 @@
 
 // Content
 .posts-item-note {
+  font-size: $base-font-size;
   font-weight: 700;
   margin-bottom: 5px;
   color: $black;
@@ -246,11 +247,16 @@
 
   .post-item-title {
     margin: 0;
+    border: 0;
+    padding: 0;
     color: $text-base-color;
+    font-size: $base-font-size;
     font-weight: normal;
     letter-spacing: 0.1px;
 
     a {
+      color: $text-base-color;
+      
       &:hover,
       &focus {
         color: $black;
