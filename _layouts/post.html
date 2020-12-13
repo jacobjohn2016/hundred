@@ -67,9 +67,9 @@ layout: compress
         <div class="page-content" itemprop="articleBody">
           {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}
           {% if page.description %}
-          <p>Comments this article on
+          <p>Share this on
             <a target="_blank" rel="noopener"
-              href="https://twitter.com/intent/tweet?hashtags=programming&amp;text=Check%20out%20@{{ site.author.twitter }}'s%20daily%20blog%20article%20'{{ page.description }}'%20on%20{{ site.url }}{{ page.url | url_encode }}">Twitter</a>.
+              href="https://twitter.com/intent/tweet?hashtags=programming&amp;text=Check%20out%20%22{{ page.description | url_encode }}%22%20on%20{{ site.url }}{{ page.url | url_encode }}&amp;via=jacobjohn2016">Twitter</a>.
           </p>
           {% endif %}
         </div>
