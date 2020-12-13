@@ -7,10 +7,11 @@ timezone: Asia/Kolkata # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/jacobjohn2016/hundred # site repo [optional]
 mode: dark # default theme "dark" | "light"
+url: https://hundred.vercel.app
 
 # Profile settings
 author:
-  name: Jacob John # author name
+  name: Jacob J # author name
   bio: >- # tell to the world
     I'm an entry-level data scientist trying to maintain his focus.
   username: jacobjohn2016 # author username
