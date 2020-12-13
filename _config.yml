@@ -24,7 +24,7 @@ author:
 url: "https://hundred.vercel.app"
 baseurl:
 permalink: /:title/
-google_analytics:
+google_analytics: UA-151744529-1
 fb_appid:
 
 # Collection setting
