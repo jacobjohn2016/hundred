@@ -21,7 +21,7 @@ author:
   avatar: /assets/img/avatar.png # change with your own avatar
 
 # Url settings
-url: "https://hundred.vercel.app/"
+url: "https://hundred.vercel.app"
 baseurl:
 permalink: /:title/
 google_analytics:
