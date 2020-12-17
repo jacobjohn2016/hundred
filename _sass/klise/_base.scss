@@ -50,6 +50,14 @@ body {
   box-sizing: border-box;
 }
 
+div.footnote {
+  font: $normal-weight 14px/1.2 $sans-family !important;
+  display: inline;
+}
+[id^=fn] {
+  font: $normal-weight 12px/1.2 $sans-family !important;
+}
+
 // Set `margin-bottom` to maintain vertical rhythm
 h1,
 h2,
