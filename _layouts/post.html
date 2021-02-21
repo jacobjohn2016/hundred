@@ -6,10 +6,6 @@ layout: compress
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
 {% include header.html %}
-{%if page.bokeh %}
-<link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.15.min.css" type="text/css" />
-<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.15.min.js"></script>
-{% endif %}
 
 <body data-theme="{{ site.mode }}" class="notransition">
 
