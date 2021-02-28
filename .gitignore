@@ -11,6 +11,7 @@ Gemfile.lock
 */.DS_Store
 .idea
 .idea/
+.tweet_cache
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
