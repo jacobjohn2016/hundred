@@ -81,3 +81,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-postfiles
   - jekyll-twitter-plugin
+
+# lighthouse
+- name: Lighthouse Check
+  uses: foo-software/lighthouse-check-action@v2.0.5
